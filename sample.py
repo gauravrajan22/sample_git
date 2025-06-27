@@ -5,3 +5,6 @@ print("delete")
 
 def randomfunc():
     return "func"
+
+def gauravfunc():
+    return "gaurav"
